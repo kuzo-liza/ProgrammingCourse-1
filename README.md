@@ -10,3 +10,4 @@
 7. Ильин Андрей [Курсовой проект] (https://github.com/WalrusQ/walrusq)
 8. Мальцев Михаил [Курсовой проект] (https://github.com/mikle9997/Course-work)
 9. Курякин Данил [Курсовой суперпроект](https://github.com/Olieaw/JavaProject)
+10. Лиза Кузовкина [Курсовой проект] (https://github.com/kuzo-liza/CookBook)
