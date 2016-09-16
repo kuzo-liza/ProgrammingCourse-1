@@ -13,3 +13,4 @@
 10. Осипов Артемий [Курсовой гиперпроект](https://github.com/Ecl1pce/LastDayOfSystem)
 11. Леженин Юрий [Курсовой проект](https://github.com/lezhenin/CourseWork)
 12. Власова Алина [Курсовой проект](https://github.com/Vlasova/CourseWork)
+13. Лиза Кузовкина [Курсовой проект](https://github.com/kuzo-liza/CookBook)
